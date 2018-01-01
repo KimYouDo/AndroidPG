@@ -1,0 +1,125 @@
+package kangwon.cse.jck.myruns3;
+
+import com.google.android.gms.maps.model.LatLng;
+
+import java.util.ArrayList;
+
+public class ExerciseEntry {
+    private Long id;
+    private int inputType;        // Manual, GPS or automatic
+    private int activityType;     // Running, cycling etc.
+    private long dateTime;        // When does this entry happen
+    private double duration;         // Exercise duration in seconds
+    private double distance;      // Distance traveled. Either in meters or feet.
+    private double avgSpeed;      // Average speed
+    private int calorie;          // Calories burnt
+    private double climb;         // Climb. Either in meters or feet.
+    private int heartRate;        // Heart rate
+    private String comment;       // Comments
+    private ArrayList<LatLng> locationList; // Location list
+
+    // Constructor
+    public void ExerciseEntry(){
+        inputType = 0;
+        activityType = 0;
+    }
+    // Setter and Getter for id
+    public void setId(long id) {
+        this.id = id;
+    }
+    public long getId() {
+        return id;
+    }
+
+    // Setter and Getter for InputType
+    public void setInputType(int mInputType) {
+        this.inputType = mInputType;
+    }
+    public int getInputType() {
+        return inputType;
+    }
+
+    // Setter and Getter for ActivityType
+    public void setActivityType(int mActivityType) {
+        this.activityType = mActivityType;
+    }
+    public int getActivityType() {
+        return activityType;
+    }
+
+    // Setter and Getter for DateTime
+    public void setDateTime(long mDateTime) {
+        this.dateTime = mDateTime;
+    }
+    public long getDateTime() {
+        return dateTime;
+    }
+
+    // Setter and Getter for Duration
+    public void setDuration(double mDuration) {
+        this.duration = mDuration;
+    }
+    public double getDuration() {
+        return duration;
+    }
+
+    // Setter and Getter for Distance
+    public void setDistance(double mDistance) {
+        this.distance = mDistance;
+    }
+    public double getDistance() {
+        return distance;
+    }
+
+    // Setter and Getter for Avg Speed
+    public void setAvgSpeed(double mAvgSpeed) {
+        this.avgSpeed = mAvgSpeed;
+    }
+    public double getAvgSpeed() {
+        return avgSpeed;
+    }
+
+    // Setter and Getter for Calories
+    public void setCalorie(int mCalorie) {
+        this.calorie = mCalorie;
+    }
+    public int getCalorie() {
+        return calorie;
+    }
+
+    // Setter and Getter for Climb
+    public void setClimb(double mClimb) {
+        this.climb = mClimb;
+    }
+    public double getClimb() {
+        return climb;
+    }
+
+    // Setter and Getter for Heartrate
+    public void setHeartRate(int mHeartRate) {
+        this.heartRate = mHeartRate;
+    }
+    public int getHeartRate() {
+        return heartRate;
+    }
+
+    // Setter and Getter for Comment
+    public void setComment(String mComment) {
+        this.comment = mComment;
+    }
+    public String getComment() {
+        return comment;
+    }
+
+    // Setter and Getter for Location List
+    public void setLocationList(ArrayList<LatLng> mLocationList) { this.locationList = mLocationList; }
+    public void addLocationList(LatLng mLatLng) { locationList.add(mLatLng); }
+    public ArrayList<LatLng> getLocationList() { return locationList; }
+
+
+    // Will be used by the ArrayAdapter in the ListView
+    @Override
+    public String toString() {
+        return inputType+": " + activityType + ", " + dateTime;
+    }
+}

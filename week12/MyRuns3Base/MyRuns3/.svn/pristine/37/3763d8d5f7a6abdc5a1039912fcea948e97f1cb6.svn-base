@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\201213309\\week12\\MyRuns3Base\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\201213309\\week12\\MyRuns3Base\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\201213309\\week12\\MyRuns3Base\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\Gigabyte_P15F\\.android\\build-cache\\ecdfce2904cf19c234523852968d6525ad40b11a\\output\\res\\menu\\crop_image_menu.xml"
+    }
+]

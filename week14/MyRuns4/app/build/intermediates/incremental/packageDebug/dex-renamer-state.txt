@@ -1,0 +1,7 @@
+#Wed Jun 07 20:06:19 KST 2017
+base.0=C\:\\201213309\\week14\\MyRuns4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_32951660c008e4d858dc807e75bebde03145435e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\201213309\\week14\\MyRuns4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8d0e34b97d2858e885a6b6a3b28a47937fa2b21f\\classes.dex
+base.1=C\:\\201213309\\week14\\MyRuns4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8d0e34b97d2858e885a6b6a3b28a47937fa2b21f
+file.0=C\:\\201213309\\week14\\MyRuns4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_32951660c008e4d858dc807e75bebde03145435e\\classes.dex

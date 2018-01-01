@@ -1,0 +1,104 @@
+<1>
+가)   앱을 시작하면 화면에 나타나는 Toast 츨력 메시지를 순서대로 적으시오.
+
+나)   앱이 시작된 상태에서 Back 버튼(화면 아래 왼쪽 삼각형)을 누르면 앱이 종료됩니다. 이 때 나타나는 Toast 출력을 차례로 적으시오.
+
+다)   앱이 종료된 상태에서 Recents 버튼(아래 오른쪽 네모 버튼, 개요 버튼이라고도 함)을 누르면 최근에 실행됐던 task들이 모두 나타납니다. 그 중 Lifecycle task를 클릭하면 Lifecycle 앱이 다시 구동됩니다. 이 때 나타나는 Toast 출력을 차례로 적으시오.
+
+라)   앱이 다시 구동된 상태에서 홈 버튼(아래 쪽 동그라미 버튼)을 클릭하면 현재 task가 background로 가고 바탕화면(홈 화면)이 나타납니다. 이 때 나타나는 Toast 출력을 차례로 적으시오.
+
+마)   바탕화면에 보이는 상태에서 Recents 버튼을 누르면 최근에 실행됐던 task들이 모두 나타납니다. 그 중 Lifecycle task를 클릭하면 Lifecycle 앱이 다시 구동됩니다. 이 때 나타나는 Toast 출력을 차례로 적으시오.
+
+바)   위 나)와 라) 두 경우 모두 홈 화면으로 돌아가지만 Toast 출력이 서로 다릅니다. 왜 그런지 설명하시오.
+
+사)   위 다)와 마) 두 경우 모두 Lifecycle 앱이 다시 화면에 나타나지만 Toast 출력이 서로 다릅니다. 왜 그런지 설명하시오.
+
+
+
+=>
+가)   onCreate() 호출됨. -> onStart() 호출됨. -> onResume() 호출됨.
+
+나)   onPause() 호출됨. -> onStop() 호출됨. -> onDestroy() 호출됨.
+
+다)   onCreate() 호출됨. -> onStart() 호출됨. -> onResume() 호출됨.
+
+라)   onPause() 호출됨. -> onStop() 호출됨.
+
+마)   onRestart() 호출됨. -> onStart() 호출됨. -> onResume() 호출됨.
+
+바)   나)는 Back해서 앱이 종료되고, 라)는 홈으로 이동해 잠시 앰이 일시정지된 상태입니다.따라시 정보를 파기하지 많습니다.
+
+라)   다)앱이 종료되고 새로시작하는 상대로 생성하고 앱을 시작하는 단계로가지만 마)는 일지정지된 것을 다시 재시작하고 앱을 시작합니다.
+
+
+
+
+
+<2>
+가)   앱을 시작하면 화면에 나타나는 Toast 메시지를 순서대로 적으시오.
+
+나)  “SECOND ACTIVITY 띄우기” 버튼을 누르면 초기화면의 activity가 back stack으로 들어가고 second activity가 화면에 나타납니다. 이 때 화면에 나타나는 Toast 출력을 차례로 적으시오. 어떤 순서로 출력이 나타나는지 관찰하시오. 
+
+     (화면간 전환을 빨리 하기 위해 첫 activity의 onPause 메소드만 우선 호출하고 바로 새 activity의 메소드들을 호출합니다! 화면 전환이 신속히 이루어져야 하므로 onPause 메소드 안에 시간이 많이 걸리는 코드를 넣으면 안 됩니다.)
+
+다)   SECOND ACTIVITY 종료하기” 버튼을 눌러 보고 화면이 어떻게 변하는지 관찰하시오. 이렇게 하면 SECOND ACTIVITY는 back stack의 top에서 제거되고 완전히 사라집니다. 이 때 화면에 나타나는 Toast 출력을 차례대로 적으시오. 그 후 
+      Recents 버튼을 누르면 최근에 실행된 task들이 보여집니다. Task 오른쪽 위에 있는 x 마크를 클릭하면 그 task가 완전히 사라집니다. X 마크를 클릭했을 때 나타나는 Toast 출력을 적으시오.
+
+
+
+=>
+가)   Main.onCreate() 호출됨.  -> Main.onStart() 호출됨. -> Main.onResume() 호출됨.
+
+나)   Main.onPause() 호출됨. -> Second.onCreate() 호출됨. -> Second.onStart() 호출됨. -> Second.onResume() 호출됨. -> Main.onStop() 호출됨.
+
+다)   Second.onPause() 호출됨. -> Main.onActivityResult() 메소드가 호출됨. 요청코드 :1, 결과코드 :-1 -> Main.onRestart() 호출됨. -> Main.onStart() 호출됨. 
+      -> Main.onResume() 호출됨. -> Second.onStop() 호출됨. -> Second.onDestroy() 호출됨.
+
+      Main.onPause() 호출됨. -> Main.onStop() 호출됨.
+
+      Main.onDestroy() 호출됨.
+
+
+
+
+
+<3>
+Back 버튼을 눌러 앱을 종료하시오. 그리고 다시 Recents 버튼을 통해 최근 task들이 보이게 한 후 Lifecycle task를 선택하여 앱이 다시 실행되게 하시오. 이 때에도 과거의 Lifecycle acitivity의 인스턴스 상태가 유지되고 복구되는지 살펴보시오. 
+두 경우의 차이에 대해 설명하시오
+
+
+
+=>
+Recents 버튼은 앱이 일시정지되어있다 다시 최근 목록에서 열면 다시시작이 되어 내용이 유지하지만, back를 하면 앱이 종료되고
+최근목록에서 다시 실행해도 졸료후 새로 시작하는 것이르로 내용이 초기화 된다.
+
+
+
+
+
+
+<4>
+가)   Lifecycle_v4의 Lifecycle activity 자바코드에는 onSaveInstanceState 메소드와 onResoreInstanceState 메소드가 추가되어 있고 여기에서 인스턴스 상태정보를 복원하고 저장합니다. 이 메소드들은 Toast 츨력도 내 보냅니다. Lifecycle_v4를 실행하고 화면에 나타나는 Toast 출력을 적으시오. onRestoreInstanceState 메소드가 실행됐나요? 
+
+나)   화면에 id를 입력하고 그 아래의 버튼 두 개를 클릭하여 score와 level을 올린 후 second activity로 전환하는 버튼을 눌러 화면에 나타나는 Toast 출력을 관찰하고 메모장에 적으시오. Lifecycle activity에서 onSaveInstanceState 메소드가 실행됐나요?
+
+다)   Back 버튼을 눌러 다시 Lifecycle 화면으로 돌아오게 하고 Toast 출력을 적으시오. 이 때 Lifecycle activity의 onRestoreInstanceState 메소드가 실행됐나요?
+
+라)   Back 버튼을 한 번 더 눌러 앱을 종료하고 Toast 출력을 적으시오. 이 때 onSaveInstanceState 메소드가 실행됐나요?
+
+
+
+=>
+가) Main.onStart() 호출됨.  ->  Main.onResume() 호출됨.
+    onRestoreInstanceState는 아직 실행되지 않고 있습니다.
+
+나) Main.onPause() 호출됨. -> Second.onCreate() 호출됨.  ->  Second.onStart() 호출됨. ->  Second.onResume() 호출됨.
+    -> Main.onSaveInstanceState() 호출됨.  -> Main.onStop() 호출됨.
+    onSaveInstanceState가 실행됩니다.
+
+다) Second.onPause() 호출됨. -> Main.onActivityResult() 메소드가 호출됨. 요청코드 : 결과코드 : -> Main.onRestart() 호출됨.
+    -> Main.onStart() 호출됨.  ->  Main.onResume() 호출됨.  -> Second.onStop() 호출됨.  ->  Second.onDestroy() 호출됨.
+    onRestoreInstanceState는 아직 실행되지 않고 있습니다.
+
+라)  Main.onPause() 호출됨.  ->  Main.onStop() 호출됨.   ->  Main.onDestroy() 호출됨.
+     onSaveInstanceState 아직 실행되지 않고 있습니다.

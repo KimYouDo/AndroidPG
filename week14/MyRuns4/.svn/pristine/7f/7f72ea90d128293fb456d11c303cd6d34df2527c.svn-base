@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\HyeonGu\\.android\\build-cache\\9594eb8bab5865f01822b9679fcb1d419df8b2ec\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\HyeonGu\\.android\\build-cache\\9594eb8bab5865f01822b9679fcb1d419df8b2ec\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\svn\\MyRuns3\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\jck\\.android\\build-cache\\9e9c50e5a0e77914205272a521a9755202787beb\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\svn\\MyRuns3\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\jck\\.android\\build-cache\\9e9c50e5a0e77914205272a521a9755202787beb\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

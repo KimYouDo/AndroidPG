@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\HyeonGu\\.android\\build-cache\\d269fdce27921477943777b311ef603b77eb28b0\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\svn\\MyRuns3\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\jck\\.android\\build-cache\\6d955c061f37e895582b741eab0e13357c379f4f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\svn\\MyRuns3\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\jck\\.android\\build-cache\\6d955c061f37e895582b741eab0e13357c379f4f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\201213309\\week14\\MyRuns4\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Gigabyte_P15F\\.android\\build-cache\\31f67685cc0f068d36109a1e4f47ec25fb19588d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\HyeonGu\\.android\\build-cache\\d269fdce27921477943777b311ef603b77eb28b0\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\201213309\\week14\\MyRuns4\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Gigabyte_P15F\\.android\\build-cache\\31f67685cc0f068d36109a1e4f47ec25fb19588d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapsApplication3</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="latitude_label">위도</string>
+    <string name="longitude_label">경도</string>
+
+
+    <string name="no_location_detected">
+            No location detected. Make sure location is enabled on the device.
+</string>
+</resources>

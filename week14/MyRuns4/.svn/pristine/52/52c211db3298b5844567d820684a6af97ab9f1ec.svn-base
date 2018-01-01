@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\svn\\MyRuns3\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings_preferences.xml",
+        "source": "D:\\svn\\MyRuns3\\app\\src\\main\\res\\xml\\settings_preferences.xml"
+    },
+    {
+        "merged": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings_preferences.xml",
+        "source": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\src\\main\\res\\xml\\settings_preferences.xml"
+    }
+]

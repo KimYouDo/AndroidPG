@@ -1,0 +1,1350 @@
+[
+    {
+        "outputFile": "D:\\svn\\MyRuns3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\svn\\MyRuns3\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\201213309\\week14\\MyRuns4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 17,
+                    "endColumn": 19,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endLine": 50,
+                        "endColumn": 19,
+                        "endOffset": 1647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endLine": 22,
+                    "endColumn": 19,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endLine": 33,
+                        "endColumn": 19,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endLine": 26,
+                    "endColumn": 19,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 5345,
+                        "endLine": 143,
+                        "endColumn": 19,
+                        "endOffset": 5500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endLine": 30,
+                    "endColumn": 19,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 2529,
+                        "endLine": 76,
+                        "endColumn": 19,
+                        "endOffset": 2676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endLine": 34,
+                    "endColumn": 19,
+                    "endOffset": 1185
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 2682,
+                        "endLine": 81,
+                        "endColumn": 19,
+                        "endOffset": 2816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1190,
+                    "endColumn": 57,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 44,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 44,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endColumn": 43,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 43,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endColumn": 50,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 50,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endColumn": 61,
+                    "endOffset": 1445
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4169,
+                        "endColumn": 61,
+                        "endOffset": 4226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1450,
+                    "endColumn": 66,
+                    "endOffset": 1512
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4007,
+                        "endColumn": 66,
+                        "endOffset": 4069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1517,
+                    "endColumn": 50,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4074,
+                        "endColumn": 50,
+                        "endOffset": 4120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1568,
+                    "endColumn": 69,
+                    "endOffset": 1633
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 1743,
+                        "endColumn": 69,
+                        "endOffset": 1808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1638,
+                    "endColumn": 64,
+                    "endOffset": 1698
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 64,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endColumn": 75,
+                    "endOffset": 1774
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 1813,
+                        "endColumn": 75,
+                        "endOffset": 1884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1779,
+                    "endColumn": 51,
+                    "endOffset": 1826
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 4843,
+                        "endColumn": 51,
+                        "endOffset": 4890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1831,
+                    "endColumn": 51,
+                    "endOffset": 1878
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 4743,
+                        "endColumn": 51,
+                        "endOffset": 4790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1883,
+                    "endColumn": 48,
+                    "endOffset": 1927
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 4616,
+                        "endColumn": 48,
+                        "endOffset": 4660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1932,
+                    "endColumn": 66,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 3781,
+                        "endColumn": 66,
+                        "endOffset": 3843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 61,
+                    "endOffset": 2056
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 3848,
+                        "endColumn": 61,
+                        "endOffset": 3905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2061,
+                    "endColumn": 60,
+                    "endOffset": 2117
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 3720,
+                        "endColumn": 60,
+                        "endOffset": 3776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2122,
+                    "endColumn": 50,
+                    "endOffset": 2168
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5133,
+                        "endColumn": 50,
+                        "endOffset": 5179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2173,
+                    "endColumn": 52,
+                    "endOffset": 2221
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 5020,
+                        "endColumn": 52,
+                        "endOffset": 5068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2226,
+                    "endColumn": 52,
+                    "endOffset": 2274
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 5184,
+                        "endColumn": 52,
+                        "endOffset": 5232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2279,
+                    "endColumn": 50,
+                    "endOffset": 2325
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 4969,
+                        "endColumn": 50,
+                        "endOffset": 5015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2330,
+                    "endColumn": 59,
+                    "endOffset": 2385
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 5073,
+                        "endColumn": 59,
+                        "endOffset": 5128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2390,
+                    "endColumn": 48,
+                    "endOffset": 2434
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4369,
+                        "endColumn": 48,
+                        "endOffset": 4413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2439,
+                    "endColumn": 50,
+                    "endOffset": 2485
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 4565,
+                        "endColumn": 50,
+                        "endOffset": 4611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2490,
+                    "endColumn": 50,
+                    "endOffset": 2536
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 4467,
+                        "endColumn": 50,
+                        "endOffset": 4513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2541,
+                    "endColumn": 58,
+                    "endOffset": 2595
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 58,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2600,
+                    "endColumn": 48,
+                    "endOffset": 2644
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 4665,
+                        "endColumn": 48,
+                        "endOffset": 4709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2649,
+                    "endColumn": 46,
+                    "endOffset": 2691
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 4518,
+                        "endColumn": 46,
+                        "endOffset": 4560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2696,
+                    "endColumn": 55,
+                    "endOffset": 2747
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3393,
+                        "endColumn": 55,
+                        "endOffset": 3444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2752,
+                    "endColumn": 53,
+                    "endOffset": 2801
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3508,
+                        "endColumn": 53,
+                        "endOffset": 3557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2806,
+                    "endColumn": 77,
+                    "endOffset": 2879
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3562,
+                        "endColumn": 77,
+                        "endOffset": 3635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2884,
+                    "endColumn": 47,
+                    "endOffset": 2927
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3185,
+                        "endColumn": 47,
+                        "endOffset": 3228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2932,
+                    "endColumn": 55,
+                    "endOffset": 2983
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3337,
+                        "endColumn": 55,
+                        "endOffset": 3388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2988,
+                    "endColumn": 55,
+                    "endOffset": 3039
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3281,
+                        "endColumn": 55,
+                        "endOffset": 3332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3044,
+                    "endColumn": 58,
+                    "endOffset": 3098
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 3449,
+                        "endColumn": 58,
+                        "endOffset": 3503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3103,
+                    "endColumn": 47,
+                    "endOffset": 3146
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3233,
+                        "endColumn": 47,
+                        "endOffset": 3276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3151,
+                    "endColumn": 47,
+                    "endOffset": 3194
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 1889,
+                        "endColumn": 47,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3199,
+                    "endColumn": 46,
+                    "endOffset": 3241
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4322,
+                        "endColumn": 46,
+                        "endOffset": 4364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3246,
+                    "endColumn": 43,
+                    "endOffset": 3285
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 4895,
+                        "endColumn": 43,
+                        "endOffset": 4934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3290,
+                    "endColumn": 48,
+                    "endOffset": 3334
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4418,
+                        "endColumn": 48,
+                        "endOffset": 4462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3339,
+                    "endColumn": 66,
+                    "endOffset": 3401
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 5278,
+                        "endColumn": 66,
+                        "endOffset": 5340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3406,
+                    "endColumn": 53,
+                    "endOffset": 3455
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 2822,
+                        "endColumn": 53,
+                        "endOffset": 2871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3460,
+                    "endColumn": 79,
+                    "endOffset": 3535
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 2876,
+                        "endColumn": 79,
+                        "endOffset": 2951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3540,
+                    "endColumn": 59,
+                    "endOffset": 3595
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2107,
+                        "endColumn": 59,
+                        "endOffset": 2162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3600,
+                    "endColumn": 84,
+                    "endOffset": 3680
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2167,
+                        "endColumn": 84,
+                        "endOffset": 2247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3685,
+                    "endColumn": 67,
+                    "endOffset": 3748
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 67,
+                        "endOffset": 2036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3753,
+                    "endColumn": 64,
+                    "endOffset": 3813
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2041,
+                        "endColumn": 64,
+                        "endOffset": 2101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3818,
+                    "endColumn": 56,
+                    "endOffset": 3870
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2253,
+                        "endColumn": 56,
+                        "endOffset": 2305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3875,
+                    "endColumn": 65,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2310,
+                        "endColumn": 65,
+                        "endOffset": 2371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 51,
+                    "endOffset": 3988
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 2957,
+                        "endColumn": 51,
+                        "endOffset": 3004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3993,
+                    "endColumn": 93,
+                    "endOffset": 4082
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3009,
+                        "endColumn": 93,
+                        "endOffset": 3098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4087,
+                    "endColumn": 65,
+                    "endOffset": 4148
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4256,
+                        "endColumn": 65,
+                        "endOffset": 4317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4153,
+                    "endColumn": 47,
+                    "endOffset": 4196
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 4795,
+                        "endColumn": 47,
+                        "endOffset": 4838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4201,
+                    "endColumn": 49,
+                    "endOffset": 4246
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 49,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4251,
+                    "endColumn": 47,
+                    "endOffset": 4294
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 889,
+                        "endColumn": 47,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4299,
+                    "endColumn": 50,
+                    "endOffset": 4345
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 50,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4350,
+                    "endColumn": 52,
+                    "endOffset": 4398
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 52,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4403,
+                    "endColumn": 46,
+                    "endOffset": 4445
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 46,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4450,
+                    "endColumn": 59,
+                    "endOffset": 4505
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 59,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4510,
+                    "endColumn": 48,
+                    "endOffset": 4554
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 48,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4559,
+                    "endColumn": 47,
+                    "endOffset": 4602
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 47,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4607,
+                    "endColumn": 46,
+                    "endOffset": 4649
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 2436,
+                        "endColumn": 46,
+                        "endOffset": 2478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4654,
+                    "endColumn": 44,
+                    "endOffset": 4694
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2483,
+                        "endColumn": 44,
+                        "endOffset": 2523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4699,
+                    "endColumn": 59,
+                    "endOffset": 4754
+                },
+                "from": {
+                    "file": "C:\\201213309\\week14\\MyRuns4\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 2376,
+                        "endColumn": 59,
+                        "endOffset": 2431
+                    }
+                }
+            }
+        ]
+    }
+]

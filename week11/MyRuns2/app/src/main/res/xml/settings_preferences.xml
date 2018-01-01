@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="계정 설정">
+
+        <PreferenceScreen
+            android:title="이름, 이메일, 전화번호 등"
+            android:summary="사용자 정보">
+            <intent android:action=".UserProfileActivity" />
+        </PreferenceScreen>
+
+        <CheckBoxPreference
+            android:title="개인정보 보호"
+            android:key="privacy_setting_checkbox_preference"
+            android:summary="운동 정보를 익명으로 서버에 올림" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="추가 설정">
+
+        <ListPreference
+            android:entries="@array/ui_unit_preference_entries"
+            android:title="거리 단위 설정"
+            android:key="unit_preference"
+            android:summary="사용할 단위를 선택하세요."
+            android:defaultValue="kilometers"
+            android:dialogTitle="사용할 단위 선택"
+            android:entryValues="@array/ui_unit_preference_entries_values" />
+
+        <EditTextPreference
+            android:title="메모"
+            android:key="comment_preference"
+            android:summary="소감을 적어주세요."
+            android:inputType="text" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="기타">
+
+        <PreferenceScreen
+            android:title="웹페이지"
+            android:summary="http://dmrl.kangwon.ac.kr/lecture/1701/android/1701_android.html">
+
+            <intent android:action="android.intent.action.VIEW"
+                android:data="http://dmrl.kangwon.ac.kr/lecture/1701/android/1701_android.html" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+</PreferenceScreen>

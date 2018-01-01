@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\svn\\MyRuns3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\svn\\MyRuns3\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\svn\\MyRuns3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\jck\\.android\\build-cache\\065777b48db2cb166164c5297cb28fc8ffb52cc9\\output\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\Project\\2017_App_Programing\\MyRuns4Base\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\HyeonGu\\.android\\build-cache\\76546773c8fa99df70c065a10ffc7407e6e87ad1\\output\\res\\menu\\crop_image_menu.xml"
+    }
+]

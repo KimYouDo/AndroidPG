@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gigabyte_P15F\.android\build-cache\d201542f7ac2e9e5c50414e325246c70f7c0c725\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42bb2a359dd5d83cee3556563d922195051058d8">
+        <dex dex="C:\201213309\week14\MyRuns4\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2ef887ed7026a8db2659d9015b18d8a510bc32b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\201213309\week14\MyRuns4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\201213309\week14\MyRuns4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_32951660c008e4d858dc807e75bebde03145435e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\201213309\week14\MyRuns4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87120da29e34d137ad843b550410f63866d57f81">
+        <dex dex="C:\201213309\week14\MyRuns4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8d0e34b97d2858e885a6b6a3b28a47937fa2b21f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gigabyte_P15F\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\201213309\week14\MyRuns4\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_bd7d799b4660bfb993d7582644dd15fb3a28fe03\classes.dex" />
+    </item>
+
+</items>
